@@ -1,4 +1,10 @@
+:root {
+  color-scheme: dark;
+}
+
 body {
+  background: #121212;
+  color: #e6e6e6;
   max-width: 40rem;
   margin: 0 auto;
   padding: 1rem;
